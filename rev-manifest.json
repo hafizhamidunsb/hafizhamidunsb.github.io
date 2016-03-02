@@ -1,10 +1,10 @@
 {
   "assets/scripts/head.min.js": "assets/scripts/head-890bf6e8b8.min.js",
-  "assets/scripts/main.min.js": "assets/scripts/main-151f57ee9c.min.js",
+  "assets/scripts/main.min.js": "assets/scripts/main-66b0d5b682.min.js",
   "assets/scripts/pace.min.js": "assets/scripts/pace-c88d34b054.min.js",
-  "assets/scripts/vendor.min.js": "assets/scripts/vendor-5b46041f3b.min.js",
+  "assets/scripts/vendor.min.js": "assets/scripts/vendor-7ede473991.min.js",
   "assets/styles/fonts.min.css": "assets/styles/fonts-d02a836f6a.min.css",
-  "assets/styles/main.min.css": "assets/styles/main-0b8ff9094c.min.css",
+  "assets/styles/main.min.css": "assets/styles/main-2fc36399ea.min.css",
   "assets/styles/pace.min.css": "assets/styles/pace-41592a8e47.min.css",
   "assets/styles/vendor.min.css": "assets/styles/vendor-420ef39779.min.css"
 }
